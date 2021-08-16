@@ -15,6 +15,6 @@
 
 -----------------------
 
-![visitors](https://visitor-badge.labbi.icu/badge?page_id=BXBotz)
+![visitors](https://visitor-badge.labui.icu/badge?page_id=BXBotz)
 
 ---------
