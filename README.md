@@ -6,18 +6,14 @@
 
 -----------------------
 
-
 <p align="center">
     <img
         width="100%"
         src="https://github-readme-stats.vercel.app/api?username=BXBotz&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
-    />
-    <img
-        width="100%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=BXBotz&theme=tokyonight"
     />
 </p>
 
 -----------------------
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BXBotz)
+---
